@@ -1,1 +1,1 @@
-console.log("hien thi san pham")
+var a ="hien thi san pham"
